@@ -1,0 +1,5 @@
+# Path to master file
+master_file = r"C:\Users\icarl\OneDrive\Escritorio\SPX ORD Claim 2.1-2.7.xlsx"
+
+# Define ONE output folder called "Fleet_Files"
+output_folder = r"C:\Users\icarl\OneDrive\Escritorio\Fleet_Files"
